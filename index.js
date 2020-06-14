@@ -6,5 +6,5 @@ function destructivelyAppendKitten(name){
 }
 
 function destructivelyPrependKitten(name){
-  drivers.unshift(name);
+  kittens.unshift(name);
 }

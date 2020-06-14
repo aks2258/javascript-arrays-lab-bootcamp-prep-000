@@ -5,7 +5,7 @@ function appendKittens(bob){
   kittens.push("bob")
 }
 appendKittens(bob)
-)
+
 function removeLastKitten(){
   kittens.unshift(bob)
 }

@@ -5,4 +5,4 @@ function appendKittens(bob){
   kittens.push("bob")
 }
 
-function 
+function removeLastKitten()

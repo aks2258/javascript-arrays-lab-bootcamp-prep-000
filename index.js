@@ -4,7 +4,7 @@ var kittens = ["Milo", "Otis", "Garfield"] //define your array here
 function appendKittens(bob){
   kittens.push("bob")
 }
-appendKittens(bob
+appendKittens(bob)
 )
 function removeLastKitten(){
   kittens.unshift(bob)
